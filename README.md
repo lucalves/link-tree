@@ -1,10 +1,10 @@
 # LinkTree
 
-### What is?
+## What is?
 
 LinkTree is a simple project of a list of links (similar to [linktr.ee](https://linktr.ee/)). Created using HTML5, CSS and Javascript.
 
-### Install
+## Install
 
 ```bash
 # Clone this repository
@@ -19,6 +19,6 @@ $ code .
 # Ready! Just open the index.html file
 ```
 
-### Screenshots
+## Screenshots
 
 <img src="src/img/linktree.gif">
