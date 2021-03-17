@@ -1,8 +1,10 @@
 # LinkTree
 
-## What is?
-
 LinkTree is a simple project of a list of links (similar to [linktr.ee](https://linktr.ee/)). Created using HTML5, CSS and Javascript.
+
+## Screenshots
+
+<img src="src/img/linktree.gif">
 
 ## Install
 
@@ -18,7 +20,3 @@ $ code .
 
 # Ready! Just open the index.html file
 ```
-
-## Screenshots
-
-<img src="src/img/linktree.gif">
