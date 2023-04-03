@@ -1,6 +1,8 @@
-# LinkTree
+# link-tree
 
-LinkTree is a simple project of a list of links (similar to [linktr.ee](https://linktr.ee/)). Created using HTML5, CSS and Javascript.
+LinkTree is a simple project of a list of links (similar to [linktr.ee](https://linktr.ee/)). 
+
+Created using HTML5, CSS and Javascript.
 
 ## Screenshots
 
