@@ -8,7 +8,7 @@ Created using HTML5, CSS and Javascript.
 
 <img src="src/img/linktree.gif">
 
-## Install
+## How to Install
 
 ```bash
 # Clone this repository
