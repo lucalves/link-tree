@@ -22,3 +22,7 @@ $ code .
 
 # Ready! Just open the index.html file
 ```
+
+## License
+
+MIT
