@@ -20,7 +20,7 @@ $ cd link-tree
 # Open the repository in the IDE (If you use VS Code)
 $ code .
 
-# Ready! Just open the index.html file
+# Ready! Just open the file index.html
 ```
 
 ## License
