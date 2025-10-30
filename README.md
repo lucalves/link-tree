@@ -4,10 +4,6 @@ LinkTree is a simple project of a list of links (similar to [linktr.ee](https://
 
 Created using HTML5, CSS and Javascript.
 
-## Screenshots
-
-<img src="src/img/linktree.gif">
-
 ## How to Install
 
 ```bash
