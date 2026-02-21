@@ -21,4 +21,4 @@ $ code .
 
 ## License
 
-MIT
+MIT.
